@@ -25,6 +25,7 @@ end
 gem 'jquery-rails'
 
 group :test do
+  gem 'minitest'
   gem 'capybara', '1.1.2'
 end
 
